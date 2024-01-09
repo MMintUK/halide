@@ -6,7 +6,7 @@
 # Output directory and build command
 [build]
   publish = "_site"
-  command = "npm tinacms build && eleventy"
+  command = "tinacms build && hugo"
 
 # Cache generated content between builds (e.g. images)
 [[plugins]]
