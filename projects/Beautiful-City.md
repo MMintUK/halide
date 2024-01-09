@@ -7,7 +7,7 @@ description: >
 year: 2022
 position: 4
 images:
-  - src: /assets/uploads/photo-1695394979617-f43bbf569deb.avif
+  - src: /assets/uploads/01.jpg
     caption: a caption
   - src: /assets/uploads/photo-1699213880412-01eddb3023ee.avif
     caption: jkkhkjhm
