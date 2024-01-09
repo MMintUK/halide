@@ -2,7 +2,7 @@
 # Site metadata
 metadata:
   # site_url should match your full production URL
-  site_url: 'https://halide.netlify.app'
+  site_url: 'https://lighthearted-cassata-d93072.netlify.app/'
   site_title: Halide
   # site subtitles are optional
   site_subtitle_1: Image Portfolio
