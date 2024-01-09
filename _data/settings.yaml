@@ -3,15 +3,15 @@
 metadata:
   # site_url should match your full production URL
   site_url: 'https://lighthearted-cassata-d93072.netlify.app/'
-  site_title: Halide
+  site_title: MMINT
   # site subtitles are optional
   site_subtitle_1: Image Portfolio
   site_subtitle_2: Sometown, CA
   # Home page description, accepts markdown
   site_description: >
-    Halide is a customizable Jamstack portfolio theme designed for photographers and still image creators. Read the docs at [github.com/danurbanowicz/halide](https://github.com/danurbanowicz/halide)
+    A collection of works by Artist Rob Green that explore the mythological, political and philosophical concepts through a lens of pop art and street art.
   # footer contact email
-  site_email: dan.urbanowicz@gmail.com
+  site_email: info@mmint.uk
   # footer social link (the social title is defined in the i18n section)
   site_social_url: 'https://github.com/danurbanowicz/halide'
   # SVG image used for sharing/bookmark icons
@@ -23,10 +23,10 @@ metadata:
   # home page SEO fields
   seo:
     # <title> tag
-    site_title: Halide - Jamstack portfolio theme
+    site_title: MMINT
     # meta description
     site_description: >-
-      A customizable, minimalist portfolio website designed for photographers and still image creators.
+      A collection of works by Artist Rob Green that explore the mythological, political and philosophical concepts through a lens of pop art and street art.
     # Adds a noindex <meta> tag on all site pages, be careful y'all!
     # Instead you can block indexing per-project with no_index: true
     no_index: false
