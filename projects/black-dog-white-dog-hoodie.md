@@ -1,8 +1,7 @@
 ---
 draft: false
 title: Black Dog White Dog Hoodie
-description: >
-  Winter is coming Druids! ❄️ Don't let the cold steal your magic! Get ready for the winter solstice in style with our toasty hoodies #StayWarmDruids
+description: Winter is coming Druids! ❄️ Don't let the cold steal your magic! Get ready for the winter solstice in style with our toasty hoodies #StayWarmDruids
 year: 13/10/2023
 position: 4
 images:
