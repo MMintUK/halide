@@ -9,6 +9,3 @@ images:
     caption: Black Dog White Dog Tee
 date: 2023-08-24T13:02:11.245Z
 ---
-An additional fictitious project description.
-
-All images used in this demo are sourced from [Unsplash](https://unsplash.com/).
