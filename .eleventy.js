@@ -12,10 +12,8 @@ const mdRender = new MarkdownIt();
 const embedEverything = require("eleventy-plugin-embed-everything");
 
 module.exports = function(eleventyConfig) {
-  eleventyConfig.addPlugin(embedEverything);
-};
 
-module.exports = function(eleventyConfig) {
+  eleventyConfig.addPlugin(embedEverything);
 
   eleventyConfig.addFilter("renderUsingMarkdown", function(rawString) {
     return mdRender.render(rawString);
