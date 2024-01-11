@@ -37,7 +37,7 @@ theme:
     space_scale: 100
   # theme colors can be hex, rgb, rgba or any valid CSS color value
   theme_colors:
-    default colors aka "dark mode"
+    # default colors aka "light mode"
     background: '#ffffff'
     text: '#101010'
     link: '#101010'

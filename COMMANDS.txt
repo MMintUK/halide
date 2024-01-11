@@ -1,0 +1,6 @@
+HALIDE:
+
+BUILD LOCAL SITE: http://localhost:8080/
+npx eleventy --serve
+
+npx tinacms dev -c "npx eleventy --serve"
