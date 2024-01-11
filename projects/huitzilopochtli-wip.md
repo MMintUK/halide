@@ -11,7 +11,7 @@ images:
 date: 2022-09-22T13:02:11.245Z
 ---
 
-https://www.youtube.com/watch?v=XP7SvJoOtQU
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XP7SvJoOtQU?si=dPRyawm-wXOoW38M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Our story begins with Coatlique, the earth goddess, mother to Coyolxanuhqui, goddess of the moon and to her male children, the gods of the stars. While upon Serpent Mountain she finds a ball of feathers and tucks it in her bosom. She looks for it later, but finds it missing. Coatlique realises she is pregnant and begins to tell her children the story of what had happened, but they do not believe her. The gods grow angry because a goddess could only give birth once to an original brood of gods and so vow to kill her. Led by Coyolxanuhqui, the moon goddess, they began to prepare for the brutal assault.
 
