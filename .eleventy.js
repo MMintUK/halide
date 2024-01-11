@@ -9,21 +9,11 @@ const EleventyFetch = require("@11ty/eleventy-fetch");
 const Image = require("@11ty/eleventy-img");
 const MarkdownIt = require("markdown-it");
 const mdRender = new MarkdownIt();
-
-// `require` the package at the top of the file with all the others
 const embedYouTube = require("eleventy-plugin-youtube-embed");
 
 module.exports = function(eleventyConfig) {
 
-  // There could be quite a lot of surrounding code here...
-
   eleventyConfig.addPlugin(embedYouTube);
-
-  // There could be quite a lot of surrounding code here...
-
-};
-
-module.exports = function(eleventyConfig) {
 
   eleventyConfig.addFilter("renderUsingMarkdown", function(rawString) {
     return mdRender.render(rawString);
