@@ -13,7 +13,9 @@ const embedEverything = require("eleventy-plugin-embed-everything");
 
 module.exports = function(eleventyConfig) {
 
-  eleventyConfig.addPlugin(embedEverything);
+  eleventyConfig.addPlugin(embedEverything, {
+    add: ['youtube']
+  });
 
   eleventyConfig.addFilter("renderUsingMarkdown", function(rawString) {
     return mdRender.render(rawString);
