@@ -7,14 +7,14 @@ description: |
 year: 10/06/2020
 position: 19
 images:
+  - src: /assets/uploads/Tiger_Lair_Rob_Green_Artist_Section_one_1800.jpg
+    caption: TIGER LAIR MURAL
   - src: /assets/uploads/tiger_lair_rob_green_artist_mmint_mural_02_seoul_opti_01.jpg
-    caption: TIGER LAIR MURAL 
+    caption: TIGER LAIR MURAL      
   - src: /assets/uploads/tiger_lair_rob_green_artist_mmint_mural_02_seoul_opti_02.jpg
     caption: TIGER LAIR MURAL
   - src: /assets/uploads/tiger_lair_rob_green_artist_mmint_mural_02_tiger_full_seoul_opti_02.jpg
     caption: TIGER LAIR MURAL 
-  - src: /assets/uploads/tiger_lair_rob_green_artist_mmint_mural_02_seoul_opti_02_detail_06.jpg
-    caption: TIGER LAIR MURAL
   - src: /assets/uploads/tiger_lair_rob_green_artist_mmint_mural_02_seoul_opti_02_detail_01.jpg
     caption: TIGER LAIR MURAL
   - src: /assets/uploads/tiger_lair_rob_green_artist_mmint_mural_02_seoul_opti_02_detail_02.jpg

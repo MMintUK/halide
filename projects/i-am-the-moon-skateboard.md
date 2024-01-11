@@ -7,7 +7,7 @@ description: |
 year: 10/04/2018
 position: 27
 images:
-  - src: /assets/uploads/skateboard-rob_green_mmint_1516_opti.jpg
+  - src: /assets/uploads/Iam_The_Moon_Rob_Green_Wyllie_1800.jpg
     caption: I AM THE MOON   
   - src: /assets/uploads/skateboard-cover-rob_green_mmint_1516.jpg
     caption: I AM THE MOON

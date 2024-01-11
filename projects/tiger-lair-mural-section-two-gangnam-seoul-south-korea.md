@@ -7,8 +7,10 @@ description: |
 year: 09/06/2020
 position: 18
 images:
-  - src: /assets/uploads/tiger_lair_rob_green_artist_section_02_1456_opti-copy.jpg
+  - src: /assets/uploads/tiger_lair_ultraviolet_neon_mural_rob_green_artist__1660_opti.jpg
     caption: TIGER LAIR MURAL 
+  - src: /assets/uploads/tiger_lair_rob_green_artist_section_02_1456_opti-copy.jpg
+    caption: TIGER LAIR MURAL     
   - src: /assets/uploads/tiger_lair_rob_green_artist_section_02_b_1456_opti-copy.jpg
     caption: TIGER LAIR MURAL
   - src: /assets/uploads/tiger_lair_rob_green_artist_section_02_1660-copy.jpg

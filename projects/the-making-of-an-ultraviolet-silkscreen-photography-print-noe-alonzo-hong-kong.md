@@ -1,12 +1,12 @@
 ---
 draft: false
-title: The Making of an Ultraviolet Silkscreen Photography Print | Noe Alonzo - Hong Kong
+title: The Making of an Ultraviolet Silkscreen Photography Print VIDEO | Noe Alonzo - Hong Kong
 description: |
   Check out this nighttime cityscape collection of photographic silkscreen prints I made in collaboration with @noealzii.
 year: 25/10/2022
 position: 11
 images:
-  - src: /assets/uploads/rob_green_artist_mmint_silkscreen_print_two.jpg
+  - src: /assets/uploads/Hong_Kong_Vid.jpg
     caption: Ultraviolet Silkscreen Photography Print                 
 date: 2022-10-25T13:02:11.245Z
 ---

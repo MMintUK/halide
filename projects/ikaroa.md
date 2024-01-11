@@ -8,8 +8,8 @@ year: 20/05/2020
 position: 22
 images:
   - src: /assets/uploads/ikaroa_rob_green_artist_-mmint-uk_black_1080.png
-    caption: I K A R O A | Illustration   
-  - src: /assets/uploads/ikaroa_rob_green_artist_-mmint-uk_red_1080.png
+    caption: I K A R O A | Illustration       
+  - src: /assets/uploads/IKAROA_Texture_Print_Red_1660.png
     caption: I K A R O A | Illustration
   - src: /assets/uploads/ikaroa_rob_green_artist_-mmint-uk_red_white_1080.png
     caption: I K A R O A | Illustration

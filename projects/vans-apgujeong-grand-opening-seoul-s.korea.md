@@ -7,8 +7,10 @@ description: |
 year: 12/12/2014
 position: 33
 images:
-  - src: /assets/uploads/rob_green_mmint_seoul_vans_apgujeong_tote_bag_opti.jpg
+  - src: /assets/uploads/Vans-Apgujeong-1080.jpg
     caption: Vans Apgujeong Grand Opening
+  - src: /assets/uploads/rob_green_mmint_seoul_vans_apgujeong_tote_bag_opti.jpg
+    caption: Vans Apgujeong Grand Opening    
   - src: /assets/uploads/rob_green_mmint_seoul_vans_apgujeong_tote_bag_opti_02.jpg
     caption: Vans Apgujeong Grand Opening
   - src: /assets/uploads/rob_green_mmint_seoul_vans_apgujeong_tote_bag_opti_03.jpg

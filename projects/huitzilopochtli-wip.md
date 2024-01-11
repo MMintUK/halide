@@ -6,7 +6,7 @@ description: |
 year: 22/09/2022
 position: 12
 images:
-  - src: /assets/uploads/huitzilopochli-web-opti-02.gif
+  - src: /assets/uploads/Huitzilopochtli-rob-green.jpg
     caption: Painting Timelapse Video              
 date: 2022-09-22T13:02:11.245Z
 ---
