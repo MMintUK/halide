@@ -4,3 +4,9 @@ BUILD LOCAL SITE: http://localhost:8080/
 npx eleventy --serve
 
 npx tinacms dev -c "npx eleventy --serve"
+
+Local Project:
+npm install @11ty/eleventy@latest
+
+Global:
+npm install @11ty/eleventy@latest -g
