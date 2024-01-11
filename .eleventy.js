@@ -10,12 +10,15 @@ const Image = require("@11ty/eleventy-img");
 const MarkdownIt = require("markdown-it");
 const mdRender = new MarkdownIt();
 const { EleventyHtmlBasePlugin } = require("@11ty/eleventy");
+const embedEverything = require("eleventy-plugin-embed-everything");
 const embedYouTube = require("eleventy-plugin-youtube-embed");
 
 
 module.exports = function(eleventyConfig) {
 
   eleventyConfig.addPlugin(EleventyHtmlBasePlugin);
+  
+  eleventyConfig.addPlugin(embedEverything);  
 
   eleventyConfig.addPlugin(embedYouTube);
 
