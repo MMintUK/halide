@@ -12,7 +12,7 @@ images:
 date: 2020-06-17T13:02:11.245Z
 ---
 
- <!-- Add your local MP4 video -->
-  <video width="640" height="360" controls>
-    <source src="/assets/uploads/rob_green_Ikaroa_web.mp4" type="video/mp4">
+ <!-- Add your local MP4 video with styling -->
+  <video class="responsive-video" controls>
+    <source src="/assets/videos/rob_green_Ikaroa_web.mp4" type="video/mp4">
   </video>
