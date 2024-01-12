@@ -23,10 +23,13 @@ package = "netlify-plugin-11ty"
 
 [[plugins]]
   package = "netlify-plugin-csp-generator"
+  
 
   [plugins.inputs]
-    buildDir = "_site"
+    buildDir = "dist"
     reportOnly = false
+    
+    
 
   [plugins.inputs.policies]
     defaultSrc = "'self'"
@@ -35,3 +38,4 @@ package = "netlify-plugin-11ty"
     imgSrc = "'self' www.google-analytics.com"
     connectSrc = "www.google-analytics.com identity.tinajs.io content.tinajs.io"
     frameAncestors = "'none'"
+    
