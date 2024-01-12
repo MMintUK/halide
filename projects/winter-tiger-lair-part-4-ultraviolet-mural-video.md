@@ -13,5 +13,7 @@ images:
 date: 2020-06-07T13:02:11.245Z
 ---
 
-
-https://www.youtube.com/watch?v=EVrksQcz2Qo
+<video width="100%" height="auto" controls>
+  <source src="https://yourdomain.com/assets/videos/TIGER_LAIR_Winter_Rob_Green.mp4" type="video/mp4">
+  <source src="https://yourdomain.com/assets/videos/TIGER_LAIR_Winter_Rob_Green.webm" type="video/webm">
+</video>

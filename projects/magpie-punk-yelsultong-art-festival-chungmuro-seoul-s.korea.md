@@ -15,4 +15,7 @@ images:
 date: 2019-10-19T13:02:11.245Z
 ---
 
-https://www.youtube.com/watch?v=dluDGYx23tY
+ <!-- Add your local MP4 video -->
+  <video width="100%" height="auto" controls>
+    <source src="/assets/videos/YELSULTONG_Rob_Green.mp4" type="video/mp4">
+  </video>

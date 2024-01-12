@@ -11,4 +11,9 @@ images:
 date: 2023-09-11T08:24:31.507Z
 ---
 
-https://www.youtube.com/watch?v=wIuHnx3up4w
+<!-- Add your local MP4 video -->
+  <video width="100%" height="auto" controls>
+    <source src="/assets/videos/ACID_Spiv_Rob_Green.mp4" type="video/mp4">
+  </video>
+
+Sneak peek from behind the scenes with good friends @dekal @mmint.uk & @boyane1984 preparing @vip5one silkscreen print. Tune: Alt-J 'Left Hand Free'
